@@ -1,0 +1,70 @@
+body{
+  background-image: url("https://tobykendzierski.files.wordpress.com/2012/01/black-dots.jpg");
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+#title{
+  width: 42%;
+  background-color: white;
+  border: 10px solid white;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 80px;
+  margin: auto;
+  margin-top: 17px;
+  margin-bottom:10px;
+  padding: 10px;
+}
+
+.pad{
+  border-radius: 10px;
+  height: 300px;
+  width: 300px;
+}
+
+#green{
+  background-color: green;
+}
+
+#red{
+  background-color: red;
+}
+
+#blue{
+  background-color: blue;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#counter{
+  font-size: 43px;
+  height: 62px;
+  width: 90px;
+  color: red;
+  text-align: center;
+  background-color: #330000;
+  border-radius: 5px;
+  margin-bottom: 3px;
+  margin-left: 105px;
+}
+
+#strict{
+  background-color: purple;
+  font-size: 30px;
+}
+
+#start{
+  margin-left: 110px;
+  background-color: purple;
+  font-size: 30px;
+}
+
+#strict:hover{
+  background-color: #4d004d;
+}
+
+#strict:focus{
+  background-color: #4d004d;
+}
